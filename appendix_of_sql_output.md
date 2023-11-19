@@ -47,3 +47,28 @@ b) Show the SQL query for number of customers purchasing more than 5 books
 
 
 <img width="234" alt="image" src="https://github.com/ainurasyikin/ks_assignment/assets/116057562/a9044694-d651-435f-aa72-2aaa163505cf">
+
+
+
+
+
+
+c) Show the SQL query for a list of customers who never purchased anything
+
+
+<img width="234" alt="image" src="https://github.com/ainurasyikin/ks_assignment/assets/116057562/e4ccf07c-7387-4d82-988d-2640e9623a00">
+
+
+
+
+
+
+
+
+
+d) Show the SQL query for list of book purchased with the users
+
+
+
+<img width="407" alt="image" src="https://github.com/ainurasyikin/ks_assignment/assets/116057562/9f64558b-100a-40f5-9873-ebf10bb7987f">
+
