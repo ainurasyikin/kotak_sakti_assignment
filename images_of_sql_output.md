@@ -35,7 +35,15 @@ a. Show schema generation query
 
 
 
+
+
+
+
+
 b) Show the SQL query for number of customers purchasing more than 5 books
+
+
+
 
 
 <img width="234" alt="image" src="https://github.com/ainurasyikin/ks_assignment/assets/116057562/a9044694-d651-435f-aa72-2aaa163505cf">
